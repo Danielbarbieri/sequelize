@@ -1,7 +1,7 @@
 const config = {
     username:'root',
     password:'123456',
-    database: 'nodejs',
+    database: 'bookcrafty',
     host: 'localhost',
     dialect:'mysql'
 }
